@@ -1,6 +1,6 @@
-Config file for disabling water pound.
+Config file for disabling water pound. Make sure to copy and paste only the declarezone but not the text like Coast Water pound or Inland Water pound. 
 
-Coast Water Pound
+Coast Water Pound --Do not add this text
 DeclareZone                         = 2 = 1915.31  = 2234.06  = 100 = Kamenka
 DeclareZone                         = 2 = 3653.44  = 2465.63  = 100 = Komarovo
 DeclareZone                         = 2 = 4402.50  = 2483.44  = 100 = Balota
@@ -16,7 +16,7 @@ DeclareZone                         = 2 = 12436.88 = 9566.88  = 100 = Berezino
 DeclareZone                         = 2 = 12913.13 = 10149.38 = 100 = Berezino Right side
 DeclareZone                         = 2 = 13792.50 = 13297.50 = 100 = Svetlojarsk
 
-Inland Water Pound
+Inland Water Pound -- Do not add this text.
 DeclareZone                         = 2 = 1670.63  = 3844.69  = 100 = Pavlovo
 DeclareZone                         = 2 = 3341.25  = 3913.13  = 100 = Bor
 DeclareZone                         = 2 = 4368.75  = 4660.31  = 100 = Kozlovka
@@ -39,7 +39,7 @@ DeclareZone                         = 2 = 4794.38  = 6827.81  = 100 = Rogovo
 DeclareZone                         = 2 = 7211.25  = 6995.63  = 100 = South East of Novy Sobor
 DeclareZone                         = 2 = 8427.19  = 6675.00  = 100 = Guglovo
 DeclareZone                         = 2 = 9658.13  = 6563.44  = 100 = Shakhovka
-DeclareZone                         = 2 = 1191.88  = 6574.69  = 100 = Dolina
+DeclareZone                         = 2 = 11189.06 = 6572.81  = 100 = Dolina
 DeclareZone                         = 2 = 12087.19 = 7219.69  = 100 = Oriovets
 DeclareZone                         = 2 = 10680.94 = 8066.25  = 100 = Polana
 DeclareZone                         = 2 = 7150.31  = 7704.38  = 100 = Novy Sobor
