@@ -1,4 +1,13 @@
-Config file for disabling water pound. Make sure to copy and paste only the declarezone but not the text like Coast Water pound or Inland Water pound. 
+Config file for disabling water pound. 
+Make sure to copy and paste only the declarezone to your config file.
+But not the text like Coast Water pound or Inland Water pound. 
+I suggest to delete the rest after the radius. 
+EX: 
+DeclareZone                         = 2 = 1915.31  = 2234.06  = 100 = Kamenka 
+to
+DeclareZone                         = 2 = 1915.31  = 2234.06  = 100
+
+Enjoy!
 
 Coast Water Pound --Do not add this text
 DeclareZone                         = 2 = 1915.31  = 2234.06  = 100 = Kamenka
