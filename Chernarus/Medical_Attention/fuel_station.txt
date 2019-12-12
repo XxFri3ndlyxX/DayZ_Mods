@@ -1,0 +1,37 @@
+Config file for disabling Fuel Station. 
+Make sure to copy and paste only the declarezone to your config file.
+But not the text like Coast Fuel Station or Inland Fuel Station. 
+I suggest to delete the rest after the radius. 
+EX: 
+DeclareZone                         = 3 = 1125.00  = 2399.06  = 100 = Kamenka 
+to
+DeclareZone                         = 3 = 1125.00  = 2399.06  = 100
+
+Enjoy!
+
+Coast Fuel Station
+DeclareZone                         = 3 = 1125.00  = 2399.06  = 100 = Kamenka
+DeclareZone                         = 3 = 5855.63  = 2196.56  = 100 = Chernogorks Left Side
+DeclareZone                         = 3 = 6882.19  = 3081.56  = 100 = Chernogorks Right Side
+DeclareZone                         = 3 = 9495.00  = 2013.75  = 100 = Elektrozavodsk
+DeclareZone                         = 3 = 13387.50 = 6601.88  = 100 = Solnichniy
+DeclareZone                         = 3 = 12988.13 = 10070.63 = 100 = Berezino
+DeclareZone                         = 3 = 13566.56 = 13331.25 = 100 = Svetlojarsk
+
+Inland Fuel Station
+DeclareZone                         = 3 = 10128.75 = 5206.88  = 100 = Staroye
+DeclareZone                         = 3 = 2682.19  = 5604.38  = 100 = Zelenogorsk
+DeclareZone                         = 3 = 2996.25  = 7465.31  = 100 = Putoshka
+DeclareZone                         = 3 = 3651.56  = 8981.25  = 100 = Vybor
+DeclareZone                         = 3 = 311.25   = 9388.13  = 100 = South West Of Zabolotye
+DeclareZone                         = 3 = 5845.31  = 10103.44 = 100 = Grishino
+DeclareZone                         = 3 = 10454.06 = 8869.69  = 100 = Gorka
+DeclareZone                         = 3 = 10734.38 = 10788.75 = 100 = North of Dubrovka
+DeclareZone                         = 3 = 7488.75  = 12657.19 = 100 = Severograd
+DeclareZone                         = 3 = 4328.44  = 13074.38 = 100 = Zaprudnoe
+DeclareZone                         = 3 = 3010.31  = 12654.38 = 100 = Topolniki
+DeclareZone                         = 3 = 2167,88  = 3400,31  = 100
+DeclareZone                         = 3 = 4729,13  = 6378,70  = 100
+DeclareZone                         = 3 = 4645,52  = 9520,91  = 100
+DeclareZone                         = 3 = 4523,51  = 10795,00 = 100
+DeclareZone                         = 3 = 4501,64  = 10870,35 = 100
