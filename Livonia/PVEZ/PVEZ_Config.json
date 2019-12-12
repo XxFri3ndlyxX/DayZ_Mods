@@ -1,0 +1,184 @@
+{
+    "GENERAL": {
+        "Update_Frequency": 5,
+        "Use_UI_Notifications": 1,
+        "Enter_Zone_Message": "You have entered PVP zone",
+        "Exit_Zone_Message": "Left PVP zone",
+        "Exit_Zone_Countdown": 10,
+        "Exit_Zone_Countdown_Message": "You're going to leave PVP zone in",
+        "Add_Zone_Name_To_Message": 1
+    },
+    "DAMAGE": {
+        "Allow_PVP_Only_When_Both_Players_Are_In_The_Zone": 0,
+        "Damage_Types_Sent_Back_To_The_Attacker": {
+            "Weapon_Damage": 0,
+            "Explosive_Damage": 0,
+            "Vehicle_Damage": 0,
+            "Fist_Fight_Damage": 0
+        },
+        "Protect_Clothing_And_Cargo": 0
+    },
+    "LAWBREAKERS_SYSTEM": {
+        "Declare_a_Lawbreaker_When_Killed_a_Player_Outside_of_PVP_Area": {
+            "On_Weaponary_Kill": 1,
+            "On_Explosive_Kill": 1,
+            "On_Vehicle_Kill": 0,
+            "On_Fist_Fight_Kill": 0
+        },
+        "Server_Wide_Message_About_Lawbreaker": 1,
+        "Persistence": 1
+    },
+    "PVP_ZONES": [
+        {
+            "Name": "Military Area Near Castle",
+            "Position": [
+                2157.81,
+                200,
+                10967.2
+            ],
+            "Radius": 450,
+            "IsActive": 1
+        },
+        {
+            "Name": "Gliniska Airstrip",
+            "Position": [
+                3917.19,
+                200,
+                10212.5
+            ],
+            "Radius": 600,
+            "IsActive": 1
+        },
+        {
+            "Name": "Military Area Near Krsnik",
+            "Position": [
+                8109.38,
+                200,
+                10889.1
+            ],
+            "Radius": 600,
+            "IsActive": 1
+        },
+        {
+            "Name": "Krsnik Military Area",
+            "Position": [
+                7901.4,
+                200,
+                9857.03
+            ],
+            "Radius": 400,
+            "IsActive": 1
+        },
+        {
+            "Name": "Borek",
+            "Position": [
+                9836.72,
+                200,
+                8555.86
+            ],
+            "Radius": 300,
+            "IsActive": 1
+        },
+        {
+            "Name": "Hunting Area Near Sitnik",
+            "Position": [
+                11344.1,
+                200,
+                10048
+            ],
+            "Radius": 150,
+            "IsActive": 1
+        },
+        {
+            "Name": "Nidek Military Area",
+            "Position": [
+                6434.07,
+                200,
+                8173.55
+            ],
+            "Radius": 150,
+            "IsActive": 1
+        },
+        {
+            "Name": "Kona Prison",
+            "Position": [
+                5520.98,
+                200,
+                8773.3
+            ],
+            "Radius": 200,
+            "IsActive": 1
+        },
+        {
+            "Name": "Muratyn Military Area",
+            "Position": [
+                4422.86,
+                200,
+                6697.86
+            ],
+            "Radius": 100,
+            "IsActive": 1
+        },
+        {
+            "Name": "Muratyn Destroyed Area",
+            "Position": [
+                4573.2,
+                300,
+                6397.51
+            ],
+            "Radius": 400,
+            "IsActive": 1
+        },
+        {
+            "Name": "Radunin Quaratine Area",
+            "Position": [
+                7454.97,
+                300,
+                6164.67
+            ],
+            "Radius": 600,
+            "IsActive": 1
+        },
+        {
+            "Name": "Lembork Military Area",
+            "Position": [
+                9026.23,
+                300,
+                6624.63
+            ],
+            "Radius": 170,
+            "IsActive": 1
+        },
+        {
+            "Name": "Military Area near Wrzeszcz",
+            "Position": [
+                9903.37,
+                300,
+                3799.74
+            ],
+            "Radius": 400,
+            "IsActive": 1
+        },
+        {
+            "Name": "Rodzanica Military Area",
+            "Position": [
+                8915.17,
+                300,
+                2041.03
+            ],
+            "Radius": 150,
+            "IsActive": 1
+        },
+        {
+            "Name": "Swarog Military Area",
+            "Position": [
+                4939.09,
+                300,
+                2146.75
+            ],
+            "Radius": 800,
+            "IsActive": 1
+        }
+    ],
+    "version": 2
+}
