@@ -1,0 +1,91 @@
+Config file for disabling water pound. 
+Make sure to copy and paste only the declarezone to your config file.
+But not the text like Coast Water pound or Inland Water pound. 
+I suggest to delete the rest after the radius. 
+EX: 
+DeclareZone                         = 2 = 1915.31  = 2234.06  = 100 = Kamenka 
+to
+DeclareZone                         = 2 = 1915.31  = 2234.06  = 100
+
+Enjoy!
+
+Coast Water Pound --Do not add this text
+DeclareZone                         = 2 = 1915.31  = 2234.06  = 100 = Kamenka
+DeclareZone                         = 2 = 3653.44  = 2465.63  = 100 = Komarovo
+DeclareZone                         = 2 = 4402.50  = 2483.44  = 100 = Balota
+DeclareZone                         = 2 = 6514.69  = 2308.13  = 100 = Chernogorsk
+DeclareZone                         = 2 = 8137.50  = 3229.88  = 100 = Prigorodki
+DeclareZone                         = 2 = 9800.63  = 2214.38  = 100 = Electrozavodsk Left side
+DeclareZone                         = 2 = 10421.25 = 2214.38  = 100 = Electrozavodsk
+DeclareZone                         = 2 = 12047.81 = 3594.38  = 100 = Kamyshovo
+DeclareZone                         = 2 = 13387.50 = 6274.69  = 100 = Solnichniy
+DeclareZone                         = 2 = 12896.25 = 8038.13  = 100 = Nizhnoye
+DeclareZone                         = 2 = 11896.88 = 9151.88  = 100 = Berezino Upper
+DeclareZone                         = 2 = 12436.88 = 9566.88  = 100 = Berezino
+DeclareZone                         = 2 = 12913.13 = 10149.38 = 100 = Berezino Right side
+DeclareZone                         = 2 = 13792.50 = 13297.50 = 100 = Svetlojarsk
+
+Inland Water Pound -- Do not add this text.
+DeclareZone                         = 2 = 1670.63  = 3844.69  = 100 = Pavlovo
+DeclareZone                         = 2 = 3341.25  = 3913.13  = 100 = Bor
+DeclareZone                         = 2 = 4368.75  = 4660.31  = 100 = Kozlovka
+DeclareZone                         = 2 = 5842.50  = 4818.75  = 100 = Nadezhdino
+DeclareZone                         = 2 = 6022.50  = 3266.25  = 100 = Novoselky
+DeclareZone                         = 2 = 7076.25  = 4310.63  = 100 = North East Of Dubky
+DeclareZone                         = 2 = 7533.75  = 5138.44  = 100 = Mogilevka
+DeclareZone                         = 2 = 9163.13  = 3898.13  = 100 = Pusta
+DeclareZone                         = 2 = 12871.88 = 4440.00  = 100 = Tulga
+DeclareZone                         = 2 = 12885.00 = 5651.25  = 100 = South west of Solnichniy
+DeclareZone                         = 2 = 11265.00 = 5486.25  = 100 = Msta
+DeclareZone                         = 2 = 10125.00 = 5482.50  = 100 = Staroye
+DeclareZone                         = 2 = 6538.13  = 6090.94  = 100 = Vyshnoye
+DeclareZone                         = 2 = 4899.38  = 5683.13  = 100 = Pulkovo
+DeclareZone                         = 2 = 2713.13  = 5294.06  = 100 = Zelenogorsk
+DeclareZone                         = 2 = 587.81   = 5287.50  = 100 = Zvir
+DeclareZone                         = 2 = 2547.19  = 6369.38  = 100 = Sosnovka
+DeclareZone                         = 2 = 4480.31  = 6425.63  = 100 = Pogorevka
+DeclareZone                         = 2 = 4794.38  = 6827.81  = 100 = Rogovo
+DeclareZone                         = 2 = 7211.25  = 6995.63  = 100 = South East of Novy Sobor
+DeclareZone                         = 2 = 8427.19  = 6675.00  = 100 = Guglovo
+DeclareZone                         = 2 = 9658.13  = 6563.44  = 100 = Shakhovka
+DeclareZone                         = 2 = 11189.06 = 6572.81  = 100 = Dolina
+DeclareZone                         = 2 = 12087.19 = 7219.69  = 100 = Oriovets
+DeclareZone                         = 2 = 10680.94 = 8066.25  = 100 = Polana
+DeclareZone                         = 2 = 7150.31  = 7704.38  = 100 = Novy Sobor
+DeclareZone                         = 2 = 6091.88  = 7740.94  = 100 = Stary Sobor
+DeclareZone                         = 2 = 2996.25  = 7823.44  = 100 = Putoshka
+DeclareZone                         = 2 = 1996.88  = 7306.88  = 100 = Myshkino
+DeclareZone                         = 2 = 1200.00  = 8764.69  = 100 = Bogatyrka
+DeclareZone                         = 2 = 3735.00  = 8957.81  = 100 = Vybor
+DeclareZone                         = 2 = 5401.88  = 8568.75  = 100 = Kabanino
+DeclareZone                         = 2 = 9461.25  = 8823.75  = 100 = Gorka
+DeclareZone                         = 2 = 12249.38 = 10626.56 = 100 = Lower Khelm
+DeclareZone                         = 2 = 12312.19 = 10939.69 = 100 = Khelm
+DeclareZone                         = 2 = 10421.25 = 9826.88  = 100 = Dubrovka
+DeclareZone                         = 2 = 9953.44  = 10385.63 = 100 = Vyshnaya Dubrovka
+DeclareZone                         = 2 = 5975.63  = 10311.56 = 100 = Grishino
+DeclareZone                         = 2 = 2746.88  = 9983.44  = 100 = Lopatino
+DeclareZone                         = 2 = 1157.81  = 10005.94 = 100 = Zabolotye
+DeclareZone                         = 2 = 2210.63  = 11099.06 = 100 = Vavilovo
+DeclareZone                         = 2 = 1456.88  = 11952.19 = 100 = Sinistok
+DeclareZone                         = 2 = 3432.19  = 13054.69 = 100 = Novaya Petrovka
+DeclareZone                         = 2 = 4899.38  = 13053.75 = 100 = Zaprudnoe
+DeclareZone                         = 2 = 5810.63  = 13575.00 = 100 = Polesovo
+DeclareZone                         = 2 = 6293.44  = 12669.38 = 100 = Ratnoe
+DeclareZone                         = 2 = 7571.25  = 13469.06 = 100 = Mamino Troitkoe
+DeclareZone                         = 2 = 8064.38  = 12639.38 = 100 = Severograd
+DeclareZone                         = 2 = 8591.25  = 11932.50 = 100 = Gvozdno
+DeclareZone                         = 2 = 8186.25  = 11582.81 = 100 = South West Of Gvozdno
+DeclareZone                         = 2 = 8076.56  = 10914.38 = 100 = South West Of Gvozdno
+DeclareZone                         = 2 = 10995.94 = 12417.19 = 100 = Krasnostav
+DeclareZone                         = 2 = 13356.56 = 12867.19 = 100 = Olsha
+DeclareZone                         = 2 = 13509.38 = 14040.00 = 100 = Turovo
+DeclareZone                         = 2 = 14068.13 = 15034.69 = 100 = Belaya Polana
+DeclareZone                         = 2 = 12714.38 = 14580.00 = 100 = Karmanovka
+DeclareZone                         = 2 = 11538.75 = 14801.25 = 100 = Smirnovo
+DeclareZone                         = 2 = 10756.88 = 14366.25 = 100 = Novodmitrovsk
+DeclareZone                         = 2 = 9473.44  = 13803.75 = 100 = Svergino
+DeclareZone                         = 2 = 9379.69  = 14551.88 = 100 = Nagornoe
+DeclareZone                         = 2 = 8466.56  = 13966.88 = 100 = South West Of Nagornoe
+DeclareZone                         = 2 = 6640.31  = 14378.44 = 100 = Kamensk
+DeclareZone                         = 2 = 4977.19  = 15135.00 = 100 = Stary Yar
