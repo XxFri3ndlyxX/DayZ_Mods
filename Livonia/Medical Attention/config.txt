@@ -42,3 +42,29 @@ DeclareZone 						= 2 = 6539.84  = 11269.53 = 20 = Lower Brena
 DeclareZone 						= 2 = 8435.55  = 12025.78 = 20 = Kolembrody
 DeclareZone 						= 2 = 10968.75 = 11203.91 = 20 = Upper Grabin
 DeclareZone 						= 2 = 10829.30 = 11077.73 = 20 = Lower Grabin
+DeclareZone 						= 2 = 9260.16  = 10869.14 = 20 = Upper Tarnow
+DeclareZone 						= 2 = 9516.41  = 10356.64 = 20 = Lower Tarnow
+DeclareZone 						= 2 = 8085.94  = 11117.58 = 20 = Military Area near Krsnik
+DeclareZone 						= 2 = 7813.28  = 10125.00 = 20 = Krsnik
+DeclareZone 						= 2 = 6290.23  = 10197.27 = 20 = Sobotka
+DeclareZone 						= 2 = 5014.45  = 9962.50  = 20 = Upper Gliniska
+DeclareZone 						= 2 = 5072.27  = 9747.66  = 20 = Lower Gliniska
+DeclareZone 						= 2 = 1455.47  = 9962.50  = 20 = Left Side Bielawa
+DeclareZone 						= 2 = 5072.27  = 9742.97  = 20 = Right Side Bielawa
+DeclareZone 						= 2 = 1247.27  = 8070.70  = 20 = Near Topolin
+DeclareZone 						= 2 = 1642.58  = 7459.38  = 20 = Upper Topolin
+DeclareZone 						= 2 = 1958.20  = 7021.09  = 20 = Lower Topolin
+DeclareZone 						= 2 = 3033.59  = 6816.80  = 20 = Adamow
+DeclareZone 						= 2 = 4048.83  = 7940.23  = 20 = Radacz
+DeclareZone 						= 2 = 4807.42  = 7623.05  = 20 = Olszanka
+DeclareZone 						= 2 = 5529.30  = 8771.88  = 20 = Kopa
+DeclareZone 						= 2 = 11246.88 = 9551.17  = 20 = Left Side Sitnik
+DeclareZone 						= 2 = 11606.64 = 9627.34  = 20 = Right Side Sitnik
+DeclareZone 						= 2 = 11873.83 = 7363.67  = 20 = Near Karlin
+DeclareZone 						= 2 = 11514.45 = 4622.66  = 20 = Right Side Gieraltow
+DeclareZone 						= 2 = 11096.09 = 4315.63  = 20 = Left Side Gieraltow
+DeclareZone 						= 2 = 9055.08  = 4441.02  = 20 = Wrzeszcz
+DeclareZone 						= 2 = 6166.02  = 3966.80  = 20 = Nadbor
+DeclareZone 						= 2 = 925.00   = 5439.45  = 20 = Zalesie
+DeclareZone 						= 2 = 3220.31  = 2112.50  = 20 = Polana
+DeclareZone 						= 2 = 11315.63 = 589.45   = 20 = Dolnik
