@@ -122,7 +122,7 @@
 		Hatchet,				*,		10,		4
 		CombatKnife,			*,		10,		5
 		Machete,				*,		12,		6	
-		ChernarusMap,			*,		15,		5 // same name for Livonia.
+		ChernarusMap,			*,		15,		5
 		Lockpick,				*,		20,		10
 		Binoculars,				*,		30,		15		
 		
@@ -167,7 +167,7 @@
 	
 	<Category> Cooking & Hunting Supplies
 		PurificationTablets,	*,		5,		2
-		Pot,					M,		25,		10
+		Pot,					*,		25,		10
 		Tripod,					*,		35,		15
 		BearTrap,				*,		50,		30
 		FishingRod,				*,		50,		30
@@ -420,7 +420,6 @@
 		HuntingOptic,			*,		1000,	550
 		PSO1Optic,				*,		1100,	550	
 		PSO11Optic,				*,		1400,	840
-		PSO1Optic,				*,		1200,	600
 		KazuarOptic,			*,		2200,	1400
 		KashtanOptic,			*,		2200,	1400
 		ReflexOptic,			*,		300,	120
@@ -444,7 +443,7 @@
 		Universallight,			*,		120,	60
 	
 	<Category> Explosive
-		FlashGrenade 			*,		250,	75
+		FlashGrenade, 			*,		250,	75
 		LandMineTrap,			*,		1000,	250
 		M67Grenade,				*,		1000,	250
 		RGD5Grenade,			*,		1000,	250
@@ -452,7 +451,7 @@
 		M18SmokeGrenade_Purple,	*,		250,	75
 		M18SmokeGrenade_Red, 	*,		250,	75
 		M18SmokeGrenade_White,	*,		250,	75
-		M18SmokeGrenade_Yellow	*,		250,	75
+		M18SmokeGrenade_Yellow,	*,		250,	75
 		RDG2SmokeGrenade_Black,	*,		250,	75
 		RDG2SmokeGrenade_White,	*,		250,	75
 
@@ -1105,7 +1104,6 @@
 		HatchbackDoors_CoDriver_WhiteRust,	*,		450,	160
 		HatchbackWheel,						*,		500,	100
 		Hatchback_02_Door_1_1,				*,		450,	160
-		Hatchback_02_Door_1_1,				*,		450,	160
 		Hatchback_02_Door_1_1_Black,		*,		450,	160
 		Hatchback_02_Door_1_1_BlackRust,    *,		450,	160
 		Hatchback_02_Door_1_1_Blue,			*,		450,	160
@@ -1130,7 +1128,7 @@
 		Hatchback_02_Door_2_2_RedRust,		*,		450,	160
 		Hatchback_02_Door_2_2,				*,		450,	160
 		Hatchback_02_Hood,					*,		300,	100
-		Hatchback_02_Hood_Black	,			*,		300,	100
+		Hatchback_02_Hood_Black,			*,		300,	100
 		Hatchback_02_Hood_BlackRust,		*,		300,	100
 		Hatchback_02_Hood_Blue,				*,		300,	100
 		Hatchback_02_Hood_BlueRust,			*,		300,	100
