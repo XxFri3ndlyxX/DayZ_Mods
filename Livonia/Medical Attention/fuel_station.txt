@@ -1,0 +1,5 @@
+DeclareZone 						= 3 = 6374.75  = 10987.5  = 20 = Brena
+DeclareZone 						= 3 = 2005.15  = 7371.21  = 20 = Topolin
+DeclareZone 						= 3 = 11525    = 9445.89  = 20 = Sitnik
+
+I have not found any other so far. If you know any other, please let me know Thanks!
