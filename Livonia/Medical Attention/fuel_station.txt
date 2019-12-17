@@ -2,4 +2,13 @@ DeclareZone 						= 3 = 6374.75  = 10987.5  = 20 = Brena
 DeclareZone 						= 3 = 2005.15  = 7371.21  = 20 = Topolin
 DeclareZone 						= 3 = 11525    = 9445.89  = 20 = Sitnik
 
-I have not found any other so far. If you know any other, please let me know Thanks!
+List below is provided by Shaggot. Thanks!
+DeclareRandomZone                         = 3 = 85 = 1086.685669 = 198.174210 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 1969.550049 = 208.244949 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 2014.849731 = 209.876068 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 3328.652344 = 488.790070 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 6081.935547 = 389.040100 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 6253.512695 = 384.331482 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 6383.779297 = 176.266190 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 10226.995117 = 244.329056 = 50 = 50
+DeclareRandomZone                         = 3 = 85 = 11532.829102 = 182.948196 = 50 = 5
